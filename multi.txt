@@ -1,4 +1,4 @@
 #depobos80742.com|bangbejir|0.2|0|127568
 #depobos80742.com|bangbejir|0.1|0|190567
-depobos80742.com|bangbejir|0.2|0|237
-depobos80742.com|bangbejir|0.1|0|twin
+#depobos80742.com|bangbejir|0.2|0|237
+#depobos80742.com|bangbejir|0.1|0|twin
