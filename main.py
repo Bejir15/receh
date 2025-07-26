@@ -115,7 +115,7 @@ def run(playwright: Playwright, situs: str, userid: str, bet_raw: str, bet_raw2:
             saldo_value = 0.0
 
         log_status("🎯", "Masuk ke menu betting 5dFast...")
-        page1.locator("a[data-urlkey='5dFast']").click()
+        page1.get_by_role("link", name="5D Fast").click()
         for _ in range(5):
             tombol = page1.get_by_text("FULL", exact=True)
             tombol.hover()
